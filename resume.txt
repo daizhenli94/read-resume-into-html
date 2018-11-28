@@ -1,0 +1,8 @@
+Daizhen Li
+Courses :- Programming Languages and Techniques, Atomic Simulation, Micro- and Nano Fabrication Technique, Computational Linguistics
+Projects
+John Rogers’ Lab, UIUC, USA - Research Assistant. Worked on the fabrication of the large-scale EEG sensors, tested and collected experimental data with EEG sensor. 
+UHylab, Beijing, China - Cofounder and Developer. Helped people to monitor and interpret their vital signs with portable devices. Developed the device and software for keeping record of user’s urine test results. Proposed and designed the prototype for monitoring heart rate.
+
+------------------------------
+dli@seas.upenn.edu
